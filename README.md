@@ -59,4 +59,4 @@ Chrome / Edge / Firefox / Safari 等支持 Tampermonkey 或 Violentmonkey 的浏
 
 ## 许可
 
-[MIT](LICENSE) © 2026 Momomo
+MIT © 2026 Momomo
