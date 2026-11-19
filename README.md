@@ -126,14 +126,6 @@ bilibili.com_96px.webp</code></pre>
 
 <hr>
 
-<h2>更新日志</h2>
-
-<ul>
-    <li><strong>0.0.1</strong> —— 首个版本：四层级候选收集、真实像素取最大、跨域下载、失败降级、油猴菜单交互。</li>
-</ul>
-
-<hr>
-
 <h2>许可</h2>
 
 <p>MIT © 2026 Momomo</p>
