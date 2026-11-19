@@ -11,7 +11,7 @@
 ## 安装
 
 1. 浏览器安装 [Tampermonkey](https://www.tampermonkey.net/)（油猴）扩展。
-2. 打开 `website-icon-downloader.user.js`，点 Tampermonkey 的 **Raw / 安装**；
+2. 打开 `网站图标提取.user.js`，点 Tampermonkey 的 **Raw / 安装**；
    或油猴面板 → 添加新脚本 → 全选覆盖粘贴 → `Ctrl+S` 保存。
 3. 打开任意网页，点油猴图标，菜单里会出现本脚本的命令。
 

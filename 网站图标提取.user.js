@@ -5,6 +5,10 @@
 // @description  一键提取当前网站的标签页图标（favicon / apple-touch-icon / mask-icon / TileImage），按实际像素取最大尺寸下载到本地。
 // @author       Momomo
 // @license      MIT
+// @homepageURL  https://github.com/Momomo79/website-icon-downloader
+// @supportURL   https://github.com/Momomo79/website-icon-downloader/issues
+// @updateURL    https://raw.githubusercontent.com/Momomo79/website-icon-downloader/main/%E7%BD%91%E7%AB%99%E5%9B%BE%E6%A0%87%E6%8F%90%E5%8F%96.user.js
+// @downloadURL  https://raw.githubusercontent.com/Momomo79/website-icon-downloader/main/%E7%BD%91%E7%AB%99%E5%9B%BE%E6%A0%87%E6%8F%90%E5%8F%96.user.js
 // @match        *://*/*
 // @run-at       document-idle
 // @noframes
