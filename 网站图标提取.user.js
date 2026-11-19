@@ -1,14 +1,13 @@
 // ==UserScript==
 // @name         网站图标提取（标签页头像下载）
 // @namespace    https://momomo.local/site-icon
-// @version      0.0.1
+// @version      0.0.2
 // @description  一键提取当前网站的标签页图标（favicon / apple-touch-icon / mask-icon / TileImage），按实际像素取最大尺寸下载到本地。
 // @author       Momomo
 // @license      MIT
-// @homepageURL  https://github.com/Momomo79/website-icon-downloader
-// @supportURL   https://github.com/Momomo79/website-icon-downloader/issues
-// @updateURL    https://raw.githubusercontent.com/Momomo79/website-icon-downloader/main/%E7%BD%91%E7%AB%99%E5%9B%BE%E6%A0%87%E6%8F%90%E5%8F%96.user.js
-// @downloadURL  https://raw.githubusercontent.com/Momomo79/website-icon-downloader/main/%E7%BD%91%E7%AB%99%E5%9B%BE%E6%A0%87%E6%8F%90%E5%8F%96.user.js
+// @homepageURL  https://greasyfork.org/zh-CN/scripts/606228-%E7%BD%91%E7%AB%99%E5%9B%BE%E6%A0%87%E6%8F%90%E5%8F%96-%E6%A0%87%E7%AD%BE%E9%A1%B5%E5%A4%B4%E5%83%8F%E4%B8%8B%E8%BD%BD
+// @supportURL   https://greasyfork.org/zh-CN/scripts/606228/feedback
+// @source       https://github.com/Momomo79/website-icon-downloader
 // @match        *://*/*
 // @run-at       document-idle
 // @noframes
